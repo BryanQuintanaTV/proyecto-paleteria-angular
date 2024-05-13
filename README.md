@@ -56,3 +56,6 @@ En el archivo de 📄hosts poner lo siguiente
 > Estar dentro de la carpeta "carpetas-proyecto-paleteria" <br>
 > Para crear un componente en el proyecto "paleteria_administracion" poner el comando: <br>`ng g c [nombre del componente] --project="paleteria_administracion"` <br>
 > Para crear un componente en el proyecto "paleteria_cliente" poner el comando: <br>`ng g c [nombre del componente] --project="paleteria_cliente"`
+
+> [!NOTE]
+> En el proyecto ***paleteria_administracion*** hay un componente llamado *temporal* en donde hay código documentado para traer datos de la api ("GET") 
