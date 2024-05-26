@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> PROYECTO CANCELADO
+> PROJECT CANCELLED
+
 # Proyecto_IngSoftware
 Proyecto Ingeniería de Software
 
